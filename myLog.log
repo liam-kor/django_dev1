@@ -1,0 +1,6 @@
+[24/May/2019 15:55:03] INFO [django.utils.autoreload:576] Watching for file changes with StatReloader
+[24/May/2019 15:55:16] WARNING [django.request:228] Not Found: /
+[24/May/2019 15:55:16] WARNING [django.server:154] "GET / HTTP/1.1" 404 2027
+[24/May/2019 15:55:22] INFO [django.server:154] "GET /polls/ HTTP/1.1" 200 40
+[24/May/2019 17:11:49] WARNING [django.request:228] Not Found: /
+[24/May/2019 17:11:49] WARNING [django.server:154] "GET / HTTP/1.1" 404 2027
